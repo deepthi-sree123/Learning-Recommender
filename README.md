@@ -22,20 +22,6 @@ A Streamlit web application that recommends personalized learning resources base
 
 ---
 
-## 📁 Project Structure
-
-Personalized-Learning-Recommender/
-├── learning_recommender/
-│ ├── data/
-│ │ ├── users.csv
-│ │ ├── resources.csv
-│ │ ├── interactions.csv
-│ │ └── quiz_scores.csv
-│ └── app.py
-
-yaml
-Copy
-Edit
 
 ---
 
