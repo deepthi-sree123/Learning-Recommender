@@ -1,0 +1,7 @@
+resource_id,title,topic,difficulty,type,url
+104,Functions in Python,Python,Intermediate,Video,https://youtu.be/xyz123
+105,Decision Trees,ML,Intermediate,PDF,https://example.com/decision-trees.pdf
+106,Deep Learning Basics,ML,Advanced,Video,https://youtu.be/abc456
+107,Python Dictionaries,Python,Beginner,PDF,https://example.com/python-dictionaries.pdf
+108,Support Vector Machines,ML,Advanced,Video,https://youtu.be/svm789
+109,Pandas Tutorial,Python,Intermediate,Video,https://youtu.be/pandas_tutorial
